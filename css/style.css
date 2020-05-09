@@ -1,0 +1,16 @@
+body {
+background-image: url('../images/background.jpg');
+background-size: cover;
+}
+
+.jumbotron{
+    background: none;
+}
+
+.jumbotron p, h1{
+    color: seashell;
+}
+
+footer{
+  
+}
